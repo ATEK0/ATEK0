@@ -2,40 +2,41 @@
 
 Welcome to my GitHub profile! I'm passionate about python, javascript and learning new stuff whenever I can, basically I love to learn, create, and collaborate on exciting projects. This README provides an overview of my GitHub activity and some information about me.
 
-## About Me
+## 🙋 About Me
 
 - 🌱 I'm currently learning software development.
 - 💼 I work as a team manager & full-stack developer.
 - 📚 I enjoy reading about new tech and future releasings.
 - 📫 You can reach me at info@codebyateko.com.
 
-## My Projects
+## ⚡ Fun fact:
+- I like expensive peripherals that got RGB 😥
+- I'm a Funko Pop collector 
+
+## 💭 My Projects
 
 Here are some of the projects I'm proud of:
 
-1. [Project Name](link to the project): Brief description of the project.
-2. [Project Name](link to the project): Brief description of the project.
-3. [Project Name](link to the project): Brief description of the project.
+1. [Xenox](https://github.com/ATEK0/Xenox): This is a GUI made with kivyMD to allow companys to manage shipments, orders, stocks and workers.
+2. [MongoDB Database Manager](https://github.com/ATEK0/MongoDB-Database-Manager): MongoDB is natively in a prompt, so I decided to smooth things up and create a GUI program to manage MongoDB local databases.
+3. [Portfolio](https://github.com/ATEK0/portfolioV2): If you want to know more about me, just check out my portfolio!
 
-You can explore more of my projects on my [GitHub repositories](https://github.com/ATEK0?tab=repositories).
-
-## My Tech Stack
+## 🥅 My Tech Stack
 
 I work with a variety of programming languages, tools, and technologies. Some of my favorites include:
 
-- Programming Languages: [list your favorite languages]
-- Frameworks: [list your favorite frameworks]
-- Tools: [list your favorite development tools]
-- Databases: [list your preferred databases]
+- Programming Languages: Python, JavaScript, CSS, C#
+- Frameworks: Flask, ReactJS, JQuery
+- Tools: VSCode, WSL, Visual Studio
+- Databases: MySQL, Firebase, SQLServer
 
-## Get in Touch
+## 🤝 Get in Touch
 
 - 💬 Feel free to contact me for collaborations, questions, or just to say hi!
-- 📧 Email: [your email address]
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- 🌐 Website: [your personal website or blog URL]
+- 📧 Email: info@codebyateko.com
+- 🌐 Website: codebyateko.com
 
-## Stats
+## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ATEK0&show_icons=true&count_private=true)
 
