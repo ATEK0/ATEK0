@@ -20,6 +20,7 @@ Here are some of the projects I'm proud of:
 1. [Xenox](https://github.com/ATEK0/Xenox): This is a GUI made with kivyMD to allow companys to manage shipments, orders, stocks and workers.
 2. [MongoDB Database Manager](https://github.com/ATEK0/MongoDB-Database-Manager): MongoDB is natively in a prompt, so I decided to smooth things up and create a GUI program to manage MongoDB local databases.
 3. [Portfolio](https://github.com/ATEK0/portfolioV2): If you want to know more about me, just check out my portfolio!
+4. Class-Tracker (in private development): Tier III and MVC webapp made for schools and learning platforms to ease the infrastructure management like teachers, students, classes, etc...
 
 ## 🥅 My Tech Stack
 
