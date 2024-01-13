@@ -26,16 +26,16 @@ Here are some of the projects I'm proud of:
 
 I work with a variety of programming languages, tools, and technologies. Some of my favorites include:
 
-- Programming Languages: Python, JavaScript, CSS, C#
-- Frameworks: Flask, ReactJS, JQuery
-- Tools: VSCode, WSL, Visual Studio
+- Programming Languages: Python, JavaScript, C#
+- Frameworks: Flask, ReactTS, JQuery. ASP.NET MVC
+- Tools: VSCode, WSL, Visual Studio, Photoshop
 - Databases: MySQL, Firebase, SQLServer
 
 ## 🤝 Get in Touch
 
 - 💬 Feel free to contact me for collaborations, questions, or just to say hi!
 - 📧 Email: info@codebyateko.com
-- 🌐 Website: codebyateko.com
+- 🌐 Website: [codebyateko.com](https://codebyateko.com)
 
 ## 📊 Stats
 
@@ -43,7 +43,7 @@ I work with a variety of programming languages, tools, and technologies. Some of
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ATEK0)
 
-Thank you for visiting my GitHub profile! I'm excited to connect with you and work together on interesting projects.
+Thank you for visiting my GitHub profile! I'm excited to connect with you and work together on interesting projects or just to discuss something.
 
 
 <!--
